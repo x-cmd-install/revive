@@ -2,91 +2,91 @@ about:
   description: "🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint"
   license: MIT
   homepage: https://revive.run
-  head: f5114c2
+  head: 46b68c2
   archived: false
   latestVersion: "v1.16.0"
-  collectedAt: 2026-09-07T05:43:50Z
+  collectedAt: 2026-09-07T18:49:24Z
 timeline:
   created: 2017-07-04
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-07
   lastRelease: 2026-08-21
 popularity:
   star: 5552
   watcher: 33
   fork: 329
   release: 45
-  contributor: 143
+  contributor: 144
   pullRequest: 1260
   issue: 521
 language:
-  Go: 719136
+  Go: 719157
   Makefile: 683
   Dockerfile: 530
-totalBytes: 720349
+totalBytes: 720370
 recent:
   last30d:
     since: 2026-08-08
     release: 1
-    mergedPR: 10
-    openPR: 5
-    closedIssue: 2
-    openIssue: 1
-    commit: 16
+    mergedPR: 11
+    openPR: 4
+    closedIssue: 3
+    openIssue: 0
+    commit: 17
   last60d:
     since: 2026-07-09
     release: 1
-    mergedPR: 19
-    openPR: 6
-    closedIssue: 2
-    openIssue: 2
-    commit: 19
+    mergedPR: 20
+    openPR: 5
+    closedIssue: 3
+    openIssue: 1
+    commit: 20
   last90d:
     since: 2026-06-09
     release: 1
-    mergedPR: 27
-    openPR: 6
-    closedIssue: 3
-    openIssue: 2
-    commit: 31
+    mergedPR: 28
+    openPR: 5
+    closedIssue: 4
+    openIssue: 1
+    commit: 32
   last180d:
     since: 2026-03-11
     release: 1
-    mergedPR: 67
-    openPR: 8
-    closedIssue: 11
-    openIssue: 9
-    commit: 64
+    mergedPR: 68
+    openPR: 7
+    closedIssue: 12
+    openIssue: 8
+    commit: 65
   last360d:
     since: 2025-09-12
     release: 4
-    mergedPR: 167
-    openPR: 9
-    closedIssue: 42
-    openIssue: 18
-    commit: 170
+    mergedPR: 168
+    openPR: 8
+    closedIssue: 43
+    openIssue: 17
+    commit: 171
   last720d:
     since: 2024-09-17
     release: 15
-    mergedPR: 461
-    openPR: 10
-    closedIssue: 151
-    openIssue: 50
-    commit: 461
+    mergedPR: 462
+    openPR: 9
+    closedIssue: 152
+    openIssue: 49
+    commit: 462
 total:
   release: 45
-  mergedPR: 1133
-  openPR: 10
-  closedIssue: 457
-  openIssue: 64
-  commit: 1419
+  mergedPR: 1134
+  openPR: 9
+  closedIssue: 458
+  openIssue: 63
+  commit: 1420
 ---
 path: /home/runner/.x-repo/github.com/mgechev/revive
-collectedAt: 2026-09-07T05:43:51Z
+collectedAt: 2026-09-07T18:49:29Z
 loc:
   Go:
-    code: 30943
+    code: 30950
     comments: 2290
-    blanks: 5454
+    blanks: 5459
     files: 596
   Toml:
     code: 398
@@ -119,9 +119,9 @@ loc:
     blanks: 1126
     files: 6
 total:
-  code: 32098
+  code: 32105
   comments: 4488
-  blanks: 6717
+  blanks: 6722
   files: 641
 ---
 date: "2026-08-24"
@@ -230,7 +230,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:43:52+00:00
+  collectedAt: 2026-09-07T18:49:36+00:00
   platform:
     darwin/arm64:
       name:  revive_darwin_arm64.tar.gz
