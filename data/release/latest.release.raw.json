@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4219003,
       "digest": "sha256:0d90f9839ece2f6d823c0579b6735b6101118693a74295017cb1f1f546cc3c69",
-      "download_count": 472,
+      "download_count": 484,
       "created_at": "2026-08-21T16:47:57Z",
       "updated_at": "2026-08-21T16:47:58Z",
       "browser_download_url": "https://github.com/mgechev/revive/releases/download/v1.16.0/revive_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4513569,
       "digest": "sha256:46a7f425f4a1594daa0c3b81c2ef70cfc2746f6416a1d83145c93fdbc8625a4f",
-      "download_count": 646,
+      "download_count": 660,
       "created_at": "2026-08-21T16:47:56Z",
       "updated_at": "2026-08-21T16:47:57Z",
       "browser_download_url": "https://github.com/mgechev/revive/releases/download/v1.16.0/revive_linux_amd64.tar.gz"
