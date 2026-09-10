@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4513569,
       "digest": "sha256:46a7f425f4a1594daa0c3b81c2ef70cfc2746f6416a1d83145c93fdbc8625a4f",
-      "download_count": 707,
+      "download_count": 708,
       "created_at": "2026-08-21T16:47:56Z",
       "updated_at": "2026-08-21T16:47:57Z",
       "browser_download_url": "https://github.com/mgechev/revive/releases/download/v1.16.0/revive_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4074277,
       "digest": "sha256:8b60ca4a2a392b410d741767a0f362ff82507875c1d2802cea03d3cdbe7a0018",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-08-21T16:47:57Z",
       "updated_at": "2026-08-21T16:47:58Z",
       "browser_download_url": "https://github.com/mgechev/revive/releases/download/v1.16.0/revive_linux_arm64.tar.gz"
