@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 12 | 7 | 3 | 0 | 18 |
-| last60d | 2026-07-12 | 1 | 21 | 8 | 3 | 1 | 21 |
-| 90d | 2026-06-12 | 1 | 28 | 8 | 4 | 1 | 33 |
-| last180d | 2026-03-14 | 1 | 68 | 10 | 12 | 8 | 66 |
-| 360d | 2025-09-15 | 4 | 169 | 11 | 43 | 16 | 172 |
-| last720d | 2024-09-20 | 15 | 461 | 12 | 152 | 48 | 462 |
+| 30d | 2026-08-12 | 1 | 12 | 7 | 3 | 0 | 18 |
+| last60d | 2026-07-13 | 1 | 20 | 8 | 3 | 1 | 21 |
+| 90d | 2026-06-13 | 1 | 28 | 8 | 4 | 1 | 33 |
+| last180d | 2026-03-15 | 1 | 68 | 10 | 12 | 8 | 66 |
+| 360d | 2025-09-16 | 4 | 169 | 11 | 43 | 16 | 172 |
+| last720d | 2024-09-21 | 15 | 460 | 12 | 152 | 48 | 461 |
 
 ## Release assets
 
@@ -81,11 +81,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **19** distros on [repology.org](https://repology.org/project/revive). **3** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **18** distros on [repology.org](https://repology.org/project/revive). **4** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `1.15.0` | ⚠️ outdated |
+| Arch | `1.16.0` | ✅ latest |
 | Homebrew | `1.16.0` | ✅ latest |
 | Nix unstable | `1.16.0` | ✅ latest |
 | Void | `1.13.0` | ⚠️ outdated |
@@ -99,4 +99,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:18:02Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:56:05Z._
