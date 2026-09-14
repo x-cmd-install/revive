@@ -48,7 +48,7 @@ x install revive
 
 ## 流行度
 
-- **Star**: 5,550 · **Fork**: 330 · **开放 issue**: 521 · **贡献者**: 145
+- **Star**: 5,551 · **Fork**: 330 · **开放 issue**: 521 · **贡献者**: 145
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install revive
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 11 | 7 | 3 | 0 | 18 |
-| last60d | 2026-07-15 | 1 | 18 | 8 | 3 | 1 | 21 |
-| 90d | 2026-06-15 | 1 | 28 | 8 | 4 | 1 | 33 |
-| last180d | 2026-03-17 | 1 | 65 | 10 | 11 | 6 | 66 |
-| 360d | 2025-09-18 | 4 | 169 | 11 | 43 | 16 | 172 |
-| last720d | 2024-09-23 | 14 | 457 | 12 | 152 | 48 | 461 |
+| 30d | 2026-08-15 | 1 | 10 | 7 | 2 | 0 | 9 |
+| last60d | 2026-07-16 | 1 | 17 | 8 | 3 | 1 | 20 |
+| 90d | 2026-06-16 | 1 | 28 | 8 | 4 | 1 | 32 |
+| last180d | 2026-03-18 | 1 | 65 | 10 | 11 | 6 | 61 |
+| 360d | 2025-09-19 | 4 | 169 | 11 | 42 | 16 | 168 |
+| last720d | 2024-09-24 | 14 | 457 | 12 | 152 | 48 | 459 |
 
 ## Release 资产
 
@@ -79,17 +79,6 @@ x install revive
 | [revive_windows_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.16.0/revive_windows_amd64.tar.gz) | 4.5 MiB | `native/win/x64` |
 | [revive_windows_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.16.0/revive_windows_arm64.tar.gz) | 4.0 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/revive) 上共有 **18** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**12** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.16.0` | ✅ latest |
-| Homebrew | `1.16.0` | ✅ latest |
-| Nix unstable | `1.16.0` | ✅ latest |
-| Void | `1.13.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 revive 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `revive` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +88,4 @@ revive 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T05:55:30Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:05:48Z._
