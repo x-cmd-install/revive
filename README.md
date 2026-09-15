@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,551 · **Forks**: 330 · **Open issues**: 521 · **Contributors**: 145
+- **Stars**: 5,552 · **Forks**: 330 · **Open issues**: 521 · **Contributors**: 145
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 10 | 7 | 2 | 0 | 9 |
-| last60d | 2026-07-16 | 1 | 17 | 8 | 3 | 1 | 20 |
-| 90d | 2026-06-16 | 1 | 28 | 8 | 4 | 1 | 32 |
-| last180d | 2026-03-18 | 1 | 65 | 10 | 11 | 6 | 61 |
-| 360d | 2025-09-19 | 4 | 169 | 11 | 42 | 16 | 168 |
-| last720d | 2024-09-24 | 14 | 457 | 12 | 152 | 48 | 459 |
+| 30d | 2026-08-16 | 1 | 10 | 7 | 2 | 0 | 9 |
+| last60d | 2026-07-17 | 1 | 17 | 8 | 3 | 1 | 20 |
+| 90d | 2026-06-17 | 1 | 28 | 8 | 4 | 1 | 32 |
+| last180d | 2026-03-19 | 1 | 65 | 10 | 11 | 6 | 61 |
+| 360d | 2025-09-20 | 4 | 167 | 11 | 41 | 16 | 168 |
+| last720d | 2024-09-25 | 14 | 457 | 12 | 152 | 48 | 458 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T06:05:48Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T06:18:53Z._
