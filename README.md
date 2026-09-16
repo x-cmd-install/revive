@@ -31,8 +31,8 @@ Overall score: **5.5 / 10**
 Lowest-scoring checks:
 
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 - **Fuzzing** (0/10) — project is not fuzzed
+- **Security-Policy** (0/10) — security policy file not detected
 
 ## Source
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1135 · **Open PRs**: 12 · **Closed issues**: 459 · **Open issues**: 62 · **Commits**: 1421
+- **Releases**: 45 · **Merged PRs**: 1135 · **Open PRs**: 13 · **Closed issues**: 459 · **Open issues**: 62 · **Commits**: 1421
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 1 | 10 | 7 | 2 | 0 | 9 |
-| last60d | 2026-07-17 | 1 | 17 | 8 | 3 | 1 | 20 |
-| 90d | 2026-06-17 | 1 | 28 | 8 | 4 | 1 | 32 |
-| last180d | 2026-03-19 | 1 | 65 | 10 | 11 | 6 | 61 |
-| 360d | 2025-09-20 | 4 | 167 | 11 | 41 | 16 | 168 |
-| last720d | 2024-09-25 | 14 | 457 | 12 | 152 | 48 | 458 |
+| 30d | 2026-08-17 | 1 | 10 | 8 | 2 | 0 | 9 |
+| last60d | 2026-07-18 | 1 | 17 | 9 | 3 | 1 | 20 |
+| 90d | 2026-06-18 | 1 | 27 | 9 | 4 | 1 | 32 |
+| last180d | 2026-03-20 | 1 | 64 | 11 | 11 | 6 | 61 |
+| 360d | 2025-09-21 | 4 | 167 | 12 | 41 | 16 | 168 |
+| last720d | 2024-09-26 | 14 | 457 | 13 | 152 | 48 | 458 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T06:18:53Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T06:16:30Z._
