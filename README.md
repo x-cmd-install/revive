@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.16.0` (2026-08-21)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-17
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 5,552 · **Forks**: 330 · **Open issues**: 521 · **Contributors**: 145
+- **Stars**: 5,551 · **Forks**: 330 · **Open issues**: 521 · **Contributors**: 145
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1135 · **Open PRs**: 13 · **Closed issues**: 459 · **Open issues**: 62 · **Commits**: 1421
+- **Releases**: 45 · **Merged PRs**: 1136 · **Open PRs**: 12 · **Closed issues**: 460 · **Open issues**: 61 · **Commits**: 1422
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 9 | 7 | 2 | 0 | 9 |
-| last60d | 2026-07-19 | 1 | 17 | 9 | 3 | 0 | 20 |
-| 90d | 2026-06-19 | 1 | 27 | 9 | 4 | 1 | 32 |
-| last180d | 2026-03-21 | 1 | 64 | 11 | 11 | 6 | 61 |
-| 360d | 2025-09-22 | 4 | 167 | 12 | 41 | 16 | 168 |
-| last720d | 2024-09-27 | 14 | 457 | 13 | 152 | 48 | 458 |
+| 30d | 2026-08-19 | 1 | 9 | 6 | 2 | 0 | 10 |
+| last60d | 2026-07-20 | 1 | 18 | 8 | 3 | 0 | 21 |
+| 90d | 2026-06-20 | 1 | 28 | 8 | 4 | 1 | 33 |
+| last180d | 2026-03-22 | 1 | 64 | 10 | 11 | 6 | 62 |
+| 360d | 2025-09-23 | 4 | 168 | 11 | 42 | 15 | 169 |
+| last720d | 2024-09-28 | 14 | 456 | 12 | 153 | 47 | 459 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:15:20Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:59:31Z._
