@@ -4,7 +4,7 @@
 
 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 
-![revive](https://repo.x-cmd.io/revive.svg?lang=zh)
+[![x-cmd/install — revive Code Quality Monitoring Repo Card](https://repo.x-cmd.io/revive.svg?lang=zh)](https://x-cmd.com/install/revive)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install revive
 
 ## 流行度
 
-- **Star**: 5,551 · **Fork**: 330 · **开放 issue**: 521 · **贡献者**: 145
+- **Star**: 5,552 · **Fork**: 330 · **开放 issue**: 521 · **贡献者**: 145
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install revive
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 9 | 6 | 2 | 0 | 10 |
-| last60d | 2026-07-20 | 1 | 18 | 8 | 3 | 0 | 21 |
-| 90d | 2026-06-20 | 1 | 28 | 8 | 4 | 1 | 33 |
-| last180d | 2026-03-22 | 1 | 64 | 10 | 11 | 6 | 62 |
-| 360d | 2025-09-23 | 4 | 168 | 11 | 42 | 15 | 169 |
-| last720d | 2024-09-28 | 14 | 456 | 12 | 153 | 47 | 459 |
+| 30d | 2026-08-21 | 1 | 6 | 6 | 1 | 0 | 10 |
+| last60d | 2026-07-22 | 1 | 18 | 8 | 3 | 0 | 21 |
+| 90d | 2026-06-22 | 1 | 28 | 8 | 4 | 1 | 33 |
+| last180d | 2026-03-24 | 1 | 61 | 10 | 10 | 5 | 62 |
+| 360d | 2025-09-25 | 4 | 166 | 11 | 39 | 15 | 169 |
+| last720d | 2024-09-30 | 14 | 455 | 12 | 153 | 47 | 456 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ revive 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:59:31Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:56:22Z._
