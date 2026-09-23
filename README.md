@@ -4,7 +4,7 @@
 
 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 
-[![x-cmd/install — revive Code Quality Monitoring Repo Card](https://repo.x-cmd.io/revive.svg)](https://x-cmd.com/install/revive)
+[![x-cmd/install — revive Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/revive.svg)](https://x-cmd.com/install/revive)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install revive
 
 ## Code insight
 
-Total: **30,602** lines of code across **635** files in the top 5 languages.
+Total: **30,800** lines of code across **635** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 30,114 | 2,305 | 5,511 | 597 |
+| Go | 30,312 | 2,309 | 5,545 | 597 |
 | Toml | 398 | 20 | 38 | 34 |
 | Json | 54 | 0 | 0 | 2 |
 | Makefile | 20 | 0 | 8 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.16.0` (2026-08-21)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 - **Assets in release**: 9
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1146 · **Open PRs**: 7 · **Closed issues**: 468 · **Open issues**: 54 · **Commits**: 1432
+- **Releases**: 45 · **Merged PRs**: 1148 · **Open PRs**: 8 · **Closed issues**: 470 · **Open issues**: 52 · **Commits**: 1434
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 14 | 2 | 1 | 1 | 15 |
-| last60d | 2026-07-24 | 1 | 27 | 4 | 3 | 1 | 30 |
-| 90d | 2026-06-24 | 1 | 37 | 4 | 4 | 2 | 34 |
-| last180d | 2026-03-26 | 1 | 68 | 6 | 10 | 6 | 69 |
-| 360d | 2025-09-27 | 4 | 175 | 7 | 39 | 16 | 177 |
-| last720d | 2024-10-02 | 14 | 463 | 7 | 158 | 43 | 465 |
+| 30d | 2026-08-24 | 0 | 16 | 4 | 1 | 1 | 17 |
+| last60d | 2026-07-25 | 1 | 29 | 5 | 3 | 1 | 32 |
+| 90d | 2026-06-25 | 1 | 35 | 5 | 4 | 2 | 36 |
+| last180d | 2026-03-27 | 1 | 70 | 7 | 10 | 6 | 71 |
+| 360d | 2025-09-28 | 4 | 177 | 8 | 41 | 14 | 179 |
+| last720d | 2024-10-03 | 14 | 465 | 8 | 160 | 41 | 465 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:04:43Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:12:18Z._

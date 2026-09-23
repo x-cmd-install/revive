@@ -4,7 +4,7 @@
 
 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 
-[![x-cmd/install — revive Code Quality Monitoring Repo Card](https://repo.x-cmd.io/revive.svg?lang=zh)](https://x-cmd.com/install/revive)
+[![x-cmd/install — revive Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/revive.svg?lang=zh)](https://x-cmd.com/install/revive)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install revive
 
 ## 代码洞察
 
-合计: **30,602** 行代码（覆盖前 5 种语言、共 **635** 个文件）。
+合计: **30,800** 行代码（覆盖前 5 种语言、共 **635** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 30,114 | 2,305 | 5,511 | 597 |
+| Go | 30,312 | 2,309 | 5,545 | 597 |
 | Toml | 398 | 20 | 38 | 34 |
 | Json | 54 | 0 | 0 | 2 |
 | Makefile | 20 | 0 | 8 | 1 |
@@ -43,7 +43,7 @@ x install revive
 ## 发布
 
 - **最新版本**: `v1.16.0` (2026-08-21)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 9 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install revive
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 1146 · **开放 PR**: 7 · **已关闭 issue**: 468 · **开放 issue**: 54 · **提交数**: 1432
+- **发布数**: 45 · **已合并 PR**: 1148 · **开放 PR**: 8 · **已关闭 issue**: 470 · **开放 issue**: 52 · **提交数**: 1434
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 14 | 2 | 1 | 1 | 15 |
-| last60d | 2026-07-24 | 1 | 27 | 4 | 3 | 1 | 30 |
-| 90d | 2026-06-24 | 1 | 37 | 4 | 4 | 2 | 34 |
-| last180d | 2026-03-26 | 1 | 68 | 6 | 10 | 6 | 69 |
-| 360d | 2025-09-27 | 4 | 175 | 7 | 39 | 16 | 177 |
-| last720d | 2024-10-02 | 14 | 463 | 7 | 158 | 43 | 465 |
+| 30d | 2026-08-24 | 0 | 16 | 4 | 1 | 1 | 17 |
+| last60d | 2026-07-25 | 1 | 29 | 5 | 3 | 1 | 32 |
+| 90d | 2026-06-25 | 1 | 35 | 5 | 4 | 2 | 36 |
+| last180d | 2026-03-27 | 1 | 70 | 7 | 10 | 6 | 71 |
+| 360d | 2025-09-28 | 4 | 177 | 8 | 41 | 14 | 179 |
+| last720d | 2024-10-03 | 14 | 465 | 8 | 160 | 41 | 465 |
 
 ## Release 资产
 
@@ -88,4 +88,4 @@ revive 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:04:43Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:12:19Z._
