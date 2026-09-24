@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+🔥 Fast, strict, configurable, extensible, and beautiful linter for Go
 
 [![x-cmd/install — revive Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/revive.svg)](https://x-cmd.com/install/revive)
 
@@ -14,12 +14,12 @@ x install revive
 
 ## Code insight
 
-Total: **30,800** lines of code across **635** files in the top 5 languages.
+Total: **31,069** lines of code across **639** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 30,312 | 2,309 | 5,545 | 597 |
-| Toml | 398 | 20 | 38 | 34 |
+| Go | 30,579 | 2,343 | 5,614 | 601 |
+| Toml | 400 | 20 | 38 | 34 |
 | Json | 54 | 0 | 0 | 2 |
 | Makefile | 20 | 0 | 8 | 1 |
 | Dockerfile | 15 | 0 | 8 | 1 |
@@ -42,42 +42,42 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.16.0` (2026-08-21)
-- **Last commit**: 2026-09-22
+- **Latest**: `v1.17.0` (2026-09-23)
+- **Last commit**: 2026-09-23
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 5,553 · **Forks**: 330 · **Open issues**: 522 · **Contributors**: 145
+- **Stars**: 5,553 · **Forks**: 331 · **Open issues**: 522 · **Contributors**: 145
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1148 · **Open PRs**: 8 · **Closed issues**: 470 · **Open issues**: 52 · **Commits**: 1434
+- **Releases**: 46 · **Merged PRs**: 1151 · **Open PRs**: 6 · **Closed issues**: 472 · **Open issues**: 50 · **Commits**: 1437
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 16 | 4 | 1 | 1 | 17 |
-| last60d | 2026-07-25 | 1 | 29 | 5 | 3 | 1 | 32 |
-| 90d | 2026-06-25 | 1 | 35 | 5 | 4 | 2 | 36 |
-| last180d | 2026-03-27 | 1 | 70 | 7 | 10 | 6 | 71 |
-| 360d | 2025-09-28 | 4 | 177 | 8 | 41 | 14 | 179 |
-| last720d | 2024-10-03 | 14 | 465 | 8 | 160 | 41 | 465 |
+| 30d | 2026-08-25 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-26 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-26 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-28 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-29 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-04 | 15 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/mgechev/revive/releases/download/v1.16.0/checksums.txt) | 740 B | `other` |
-| [revive_darwin_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.16.0/revive_darwin_amd64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
-| [revive_darwin_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.16.0/revive_darwin_arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
-| [revive_linux_386.tar.gz](https://github.com/mgechev/revive/releases/download/v1.16.0/revive_linux_386.tar.gz) | 4.2 MiB | `native/unknown` |
-| [revive_linux_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.16.0/revive_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [revive_linux_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.16.0/revive_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
-| [revive_windows_386.tar.gz](https://github.com/mgechev/revive/releases/download/v1.16.0/revive_windows_386.tar.gz) | 4.4 MiB | `native/win/x64` |
-| [revive_windows_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.16.0/revive_windows_amd64.tar.gz) | 4.5 MiB | `native/win/x64` |
-| [revive_windows_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.16.0/revive_windows_arm64.tar.gz) | 4.0 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/mgechev/revive/releases/download/v1.17.0/checksums.txt) | 740 B | `other` |
+| [revive_darwin_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_darwin_amd64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
+| [revive_darwin_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_darwin_arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [revive_linux_386.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_linux_386.tar.gz) | 4.2 MiB | `native/unknown` |
+| [revive_linux_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [revive_linux_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
+| [revive_windows_386.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_windows_386.tar.gz) | 4.4 MiB | `native/win/x64` |
+| [revive_windows_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_windows_amd64.tar.gz) | 4.5 MiB | `native/win/x64` |
+| [revive_windows_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_windows_arm64.tar.gz) | 4.0 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:12:18Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:34:22Z._
