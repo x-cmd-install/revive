@@ -14,11 +14,11 @@ x install revive
 
 ## Code insight
 
-Total: **31,071** lines of code across **639** files in the top 5 languages.
+Total: **31,568** lines of code across **656** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 30,581 | 2,344 | 5,618 | 601 |
+| Go | 31,078 | 2,366 | 5,714 | 618 |
 | Toml | 400 | 20 | 38 | 34 |
 | Json | 54 | 0 | 0 | 2 |
 | Makefile | 20 | 0 | 8 | 1 |
@@ -42,42 +42,42 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v1.17.0` (2026-09-23)
-- **Last commit**: 2026-10-06
+- **Latest**: `v1.17.1` (2026-10-07)
+- **Last commit**: 2026-10-07
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 5,554 · **Forks**: 333 · **Open issues**: 565 · **Contributors**: 146
+- **Stars**: 5,553 · **Forks**: 333 · **Open issues**: 566 · **Contributors**: 147
 
 ## Totals (cumulative)
 
-- **Releases**: 46 · **Merged PRs**: 1158 · **Open PRs**: 31 · **Closed issues**: 477 · **Open issues**: 88 · **Commits**: 1444
+- **Releases**: 47 · **Merged PRs**: 1177 · **Open PRs**: 17 · **Closed issues**: 496 · **Open issues**: 70 · **Commits**: 1463
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-12 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-17 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-08 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-13 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-18 | 16 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/mgechev/revive/releases/download/v1.17.0/checksums.txt) | 740 B | `other` |
-| [revive_darwin_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_darwin_amd64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
-| [revive_darwin_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_darwin_arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
-| [revive_linux_386.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_linux_386.tar.gz) | 4.2 MiB | `native/unknown` |
-| [revive_linux_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
-| [revive_linux_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
-| [revive_windows_386.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_windows_386.tar.gz) | 4.4 MiB | `native/win/x64` |
-| [revive_windows_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_windows_amd64.tar.gz) | 4.5 MiB | `native/win/x64` |
-| [revive_windows_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.0/revive_windows_arm64.tar.gz) | 4.0 MiB | `native/win/arm64` |
+| [checksums.txt](https://github.com/mgechev/revive/releases/download/v1.17.1/checksums.txt) | 740 B | `other` |
+| [revive_darwin_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_darwin_amd64.tar.gz) | 4.4 MiB | `native/darwin/x64` |
+| [revive_darwin_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_darwin_arm64.tar.gz) | 4.0 MiB | `native/darwin/arm64` |
+| [revive_linux_386.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_linux_386.tar.gz) | 4.2 MiB | `native/unknown` |
+| [revive_linux_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_linux_amd64.tar.gz) | 4.3 MiB | `native/linux/x64` |
+| [revive_linux_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
+| [revive_windows_386.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_windows_386.tar.gz) | 4.4 MiB | `native/win/x64` |
+| [revive_windows_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_windows_amd64.tar.gz) | 4.5 MiB | `native/win/x64` |
+| [revive_windows_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_windows_arm64.tar.gz) | 4.0 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:47:00Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:55:52Z._
