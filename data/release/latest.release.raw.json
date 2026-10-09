@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 4590557,
       "digest": "sha256:dad58b913376a5d1cd14f9cea241bbc8b63c8cdae95f85bfe0b569bb8a07f04b",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-07T12:09:35Z",
       "updated_at": "2026-10-07T12:09:35Z",
       "browser_download_url": "https://github.com/revive-lint/revive/releases/download/v1.17.1/revive_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 4229834,
       "digest": "sha256:abdbde1d0e314d9ea7d935eca82dd759e9660fe3b2f1e9157d5357c2ea3b6eb2",
-      "download_count": 5,
+      "download_count": 67,
       "created_at": "2026-10-07T12:09:35Z",
       "updated_at": "2026-10-07T12:09:36Z",
       "browser_download_url": "https://github.com/revive-lint/revive/releases/download/v1.17.1/revive_darwin_arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4375197,
       "digest": "sha256:94945d6e858a2e9c8b6d18f5e0fbe67219cfe27b946d3e9a32b84a8679169ebb",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-07T12:09:34Z",
       "updated_at": "2026-10-07T12:09:34Z",
       "browser_download_url": "https://github.com/revive-lint/revive/releases/download/v1.17.1/revive_linux_386.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4524550,
       "digest": "sha256:c3e6f9d9e2cf7c4039ad5b241a01607c6cc6c61f97e267e6acbb2e7beb373f34",
-      "download_count": 4,
+      "download_count": 78,
       "created_at": "2026-10-07T12:09:34Z",
       "updated_at": "2026-10-07T12:09:34Z",
       "browser_download_url": "https://github.com/revive-lint/revive/releases/download/v1.17.1/revive_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4085009,
       "digest": "sha256:1445dae6c7337593642b8df73ab9f40a61aff04879de1914bb11a07f9511712e",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-10-07T12:09:34Z",
       "updated_at": "2026-10-07T12:09:35Z",
       "browser_download_url": "https://github.com/revive-lint/revive/releases/download/v1.17.1/revive_linux_arm64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 4597050,
       "digest": "sha256:cc8fd2d675c83c1f72280d5197b8a25db03ec4a81100cdb72407a0438aa49562",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-07T12:09:34Z",
       "updated_at": "2026-10-07T12:09:35Z",
       "browser_download_url": "https://github.com/revive-lint/revive/releases/download/v1.17.1/revive_windows_386.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4675735,
       "digest": "sha256:f995fc51d633b663a89eac71ac8340f4d4286f9d75a6aea2bc5d4096f4562e2e",
-      "download_count": 3,
+      "download_count": 6,
       "created_at": "2026-10-07T12:09:34Z",
       "updated_at": "2026-10-07T12:09:34Z",
       "browser_download_url": "https://github.com/revive-lint/revive/releases/download/v1.17.1/revive_windows_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4174319,
       "digest": "sha256:2bc6787745198d3f4b435548295bad7cf72c45bffc52721a441224d3631e2cab",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-10-07T12:09:35Z",
       "updated_at": "2026-10-07T12:09:35Z",
       "browser_download_url": "https://github.com/revive-lint/revive/releases/download/v1.17.1/revive_windows_arm64.tar.gz"
