@@ -14,23 +14,23 @@ x install revive
 
 ## Code insight
 
-Total: **31,568** lines of code across **656** files in the top 5 languages.
+Total: **32,598** lines of code across **675** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 31,078 | 2,366 | 5,714 | 618 |
-| Toml | 400 | 20 | 38 | 34 |
+| Go | 32,104 | 2,373 | 5,840 | 637 |
+| Toml | 404 | 20 | 38 | 34 |
 | Json | 54 | 0 | 0 | 2 |
 | Makefile | 20 | 0 | 8 | 1 |
 | Dockerfile | 15 | 0 | 8 | 1 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/25 approved changesets -- score normalized to 2
+- **Code-Review** (0/10) — Found 2/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Security-Policy** (0/10) — security policy file not detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.17.1` (2026-10-07)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-12
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 5,550 · **Forks**: 333 · **Open issues**: 524 · **Contributors**: 146
+- **Stars**: 5,551 · **Forks**: 333 · **Open issues**: 528 · **Contributors**: 146
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 1165 · **Open PRs**: 12 · **Closed issues**: 474 · **Open issues**: 50 · **Commits**: 1463
+- **Releases**: 47 · **Merged PRs**: 1171 · **Open PRs**: 11 · **Closed issues**: 478 · **Open issues**: 50 · **Commits**: 1469
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-13 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-14 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-15 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-17 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-22 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-13 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-14 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-15 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-16 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-18 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-23 | 16 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:53:08Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:51:37Z._
