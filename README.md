@@ -14,11 +14,11 @@ x install revive
 
 ## Code insight
 
-Total: **33,314** lines of code across **707** files in the top 5 languages.
+Total: **33,687** lines of code across **709** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 32,808 | 2,449 | 5,936 | 664 |
+| Go | 33,181 | 2,475 | 6,004 | 666 |
 | Toml | 416 | 25 | 42 | 39 |
 | Json | 54 | 0 | 0 | 2 |
 | Makefile | 20 | 0 | 8 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.17.1` (2026-10-07)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 9
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 1195 · **Open PRs**: 22 · **Closed issues**: 514 · **Open issues**: 64 · **Commits**: 1481
+- **Releases**: 47 · **Merged PRs**: 1196 · **Open PRs**: 21 · **Closed issues**: 515 · **Open issues**: 63 · **Commits**: 1482
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-21 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-22 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-23 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-25 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-30 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-21 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-23 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-24 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-26 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-31 | 16 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -88,4 +88,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:40:45Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:39:58Z._
