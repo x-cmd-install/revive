@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,554 · **Forks**: 339 · **Open issues**: 578 · **Contributors**: 148
+- **Stars**: 5,555 · **Forks**: 339 · **Open issues**: 578 · **Contributors**: 148
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-27 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-01 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-28 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-02 | 16 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -79,6 +79,17 @@ Lowest-scoring checks:
 | [revive_windows_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_windows_amd64.tar.gz) | 4.5 MiB | `native/win/x64` |
 | [revive_windows_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_windows_arm64.tar.gz) | 4.0 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **20** distros on [repology.org](https://repology.org/project/revive). **4** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `1.17.0` | ⚠️ outdated |
+| Homebrew | `1.17.1` | ✅ latest |
+| Nix unstable | `1.17.1` | ✅ latest |
+| Void | `1.13.0` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `revive` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -88,4 +99,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:39:53Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:39:56Z._
