@@ -14,14 +14,14 @@ x install revive
 
 ## Code insight
 
-Total: **33,687** lines of code across **709** files in the top 5 languages.
+Total: **43,486** lines of code across **713** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 33,181 | 2,475 | 6,004 | 666 |
+| Go | 33,186 | 2,477 | 6,005 | 666 |
+| Json | 9,835 | 0 | 0 | 6 |
 | Toml | 416 | 25 | 42 | 39 |
-| Json | 54 | 0 | 0 | 2 |
-| Makefile | 20 | 0 | 8 | 1 |
+| Makefile | 33 | 0 | 10 | 1 |
 | Dockerfile | 15 | 0 | 8 | 1 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.17.1` (2026-10-07)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 9
 
 ## Popularity
 
-- **Stars**: 5,556 · **Forks**: 340 · **Open issues**: 578 · **Contributors**: 148
+- **Stars**: 5,557 · **Forks**: 340 · **Open issues**: 581 · **Contributors**: 148
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 1198 · **Open PRs**: 25 · **Closed issues**: 515 · **Open issues**: 63 · **Commits**: 1484
+- **Releases**: 47 · **Merged PRs**: 1205 · **Open PRs**: 25 · **Closed issues**: 517 · **Open issues**: 64 · **Commits**: 1491
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-28 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-29 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-30 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-01 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-06 | 16 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-28 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-29 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-30 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-01 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-02 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-07 | 16 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:58:55Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:32:42Z._
