@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,561 · **Forks**: 342 · **Open issues**: 584 · **Contributors**: 148
+- **Stars**: 5,561 · **Forks**: 343 · **Open issues**: 584 · **Contributors**: 148
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 1206 · **Open PRs**: 27 · **Closed issues**: 518 · **Open issues**: 66 · **Commits**: 1492
+- **Releases**: 47 · **Merged PRs**: 1206 · **Open PRs**: 29 · **Closed issues**: 518 · **Open issues**: 66 · **Commits**: 1492
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-06 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-07 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-09 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-10 | 6 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-15 | 15 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-07 | 1 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-07 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-08 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-10 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-11 | 6 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-16 | 15 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:41:01Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:35:47Z._
