@@ -1,3 +1,125 @@
+- repo: nix_stable_25_05
+  srcname: revive
+  visiblename: revive
+  version: 1.9.0
+  origversion: null
+  status: outdated
+  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
+  maintainers:
+    - maaslalani0@gmail.com
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: revive
+  binname: revive
+  visiblename: revive
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: outdated
+  summary: faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: revive
+  visiblename: revive
+  version: 1.3.7
+  origversion: null
+  status: outdated
+  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
+  maintainers:
+    - maaslalani0@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: revive
+  visiblename: revive
+  version: 1.4.0
+  origversion: null
+  status: outdated
+  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
+  maintainers:
+    - maaslalani0@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: revive
+  visiblename: revive
+  version: 1.11.0
+  origversion: null
+  status: outdated
+  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: revive
+  visiblename: revive
+  version: 1.17.1
+  origversion: null
+  status: newest
+  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
+  maintainers:
+    - andrew_field@hotmail.co.uk
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: revive
+  binname: revive
+  visiblename: revive
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: outdated
+  summary: faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+  licenses:
+    - MIT
+- repo: slackbuilds
+  srcname: development/revive
+  visiblename: development/revive
+  version: 1.17.1
+  origversion: null
+  status: newest
+  maintainers:
+    - boxjake.romero@protonmail.com
+  categories:
+    - development
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: revive
+  binname: revive
+  visiblename: revive
+  version: 1.13.0
+  origversion: 1.13.0_2
+  status: outdated
+  summary: Drop-in replacement for golint
+  maintainers:
+    - pangolin@vivaldi.net
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: revive
+  binname: revive
+  visiblename: revive
+  version: 1.17.0
+  origversion: 1.17.0-1
+  status: outdated
+  summary: faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: revive
+  visiblename: revive
+  version: 1.11.0
+  origversion: null
+  status: outdated
+  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
+  maintainers:
+    - maaslalani0@gmail.com
+  licenses:
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: revive
@@ -82,131 +204,9 @@
   srcname: revive
   binname: revive
   visiblename: revive
-  version: 1.3.3
-  origversion: 1.3.3-1
+  version: 1.16.0
+  origversion: 1.16.0-1
   status: outdated
   summary: faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: revive
-  binname: revive
-  visiblename: revive
-  version: 1.3.3
-  origversion: 1.3.3-1
-  status: outdated
-  summary: faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: revive
-  binname: revive
-  visiblename: revive
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: outdated
-  summary: faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: revive
-  visiblename: revive
-  version: 1.3.7
-  origversion: null
-  status: outdated
-  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
-  maintainers:
-    - maaslalani0@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: revive
-  visiblename: revive
-  version: 1.4.0
-  origversion: null
-  status: outdated
-  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
-  maintainers:
-    - maaslalani0@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: revive
-  visiblename: revive
-  version: 1.9.0
-  origversion: null
-  status: outdated
-  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
-  maintainers:
-    - maaslalani0@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: revive
-  visiblename: revive
-  version: 1.11.0
-  origversion: null
-  status: outdated
-  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
-  maintainers:
-    - maaslalani0@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: revive
-  visiblename: revive
-  version: 1.11.0
-  origversion: null
-  status: outdated
-  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: revive
-  visiblename: revive
-  version: 1.17.1
-  origversion: null
-  status: newest
-  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
-  maintainers:
-    - andrew_field@hotmail.co.uk
-  licenses:
-    - MIT
-- repo: parabola
-  subrepo: extra
-  srcname: revive
-  binname: revive
-  visiblename: revive
-  version: 1.17.0
-  origversion: 1.17.0-1
-  status: outdated
-  summary: faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
-  licenses:
-    - MIT
-- repo: slackbuilds
-  srcname: development/revive
-  visiblename: development/revive
-  version: 1.17.1
-  origversion: null
-  status: newest
-  maintainers:
-    - boxjake.romero@protonmail.com
-  categories:
-    - development
-- repo: void_x86_64
-  subrepo: x86_64
-  srcname: revive
-  binname: revive
-  visiblename: revive
-  version: 1.13.0
-  origversion: 1.13.0_2
-  status: outdated
-  summary: Drop-in replacement for golint
-  maintainers:
-    - pangolin@vivaldi.net
   licenses:
     - MIT
