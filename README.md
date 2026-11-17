@@ -26,12 +26,12 @@ Total: **43,954** lines of code across **719** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.8 / 10**
+Overall score: **6.8 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,569 · **Forks**: 339 · **Open issues**: 587 · **Contributors**: 149
+- **Stars**: 5,569 · **Forks**: 338 · **Open issues**: 587 · **Contributors**: 149
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -79,17 +79,6 @@ Lowest-scoring checks:
 | [revive_windows_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_windows_amd64.tar.gz) | 4.5 MiB | `native/win/x64` |
 | [revive_windows_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_windows_arm64.tar.gz) | 4.0 MiB | `native/win/arm64` |
 
-## Distribution status
-
-Reported by **20** distros on [repology.org](https://repology.org/project/revive). **4** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `1.17.0` | ⚠️ outdated |
-| Homebrew | `1.17.1` | ✅ latest |
-| Nix unstable | `1.17.1` | ✅ latest |
-| Void | `1.13.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `revive` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +88,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:56:51Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:44:25Z._

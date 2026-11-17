@@ -26,12 +26,12 @@ x install revive
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.8 / 10**
+总评分: **6.8 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (3/10) — Found 9/30 approved changesets -- score normalized to 3
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-- **Security-Policy** (0/10) — security policy file not detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## 源代码
@@ -48,7 +48,7 @@ x install revive
 
 ## 流行度
 
-- **Star**: 5,569 · **Fork**: 339 · **开放 issue**: 587 · **贡献者**: 149
+- **Star**: 5,569 · **Fork**: 338 · **开放 issue**: 587 · **贡献者**: 149
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install revive
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 2 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-21 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-26 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-18 | 2 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-19 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-21 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-22 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-27 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
@@ -79,17 +79,6 @@ x install revive
 | [revive_windows_amd64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_windows_amd64.tar.gz) | 4.5 MiB | `native/win/x64` |
 | [revive_windows_arm64.tar.gz](https://github.com/mgechev/revive/releases/download/v1.17.1/revive_windows_arm64.tar.gz) | 4.0 MiB | `native/win/arm64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/revive) 上共有 **20** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `1.17.0` | ⚠️ outdated |
-| Homebrew | `1.17.1` | ✅ latest |
-| Nix unstable | `1.17.1` | ✅ latest |
-| Void | `1.13.0` | ⚠️ outdated |
-
 ## 改进这些数据
 
 revive 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `revive` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -99,4 +88,4 @@ revive 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:56:52Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:44:26Z._
