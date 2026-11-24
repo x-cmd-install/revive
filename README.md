@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,572 · **Forks**: 338 · **Open issues**: 588 · **Contributors**: 149
+- **Stars**: 5,572 · **Forks**: 336 · **Open issues**: 546 · **Contributors**: 148
 
 ## Totals (cumulative)
 
-- **Releases**: 47 · **Merged PRs**: 1213 · **Open PRs**: 27 · **Closed issues**: 523 · **Open issues**: 65 · **Commits**: 1499
+- **Releases**: 47 · **Merged PRs**: 1198 · **Open PRs**: 21 · **Closed issues**: 496 · **Open issues**: 50 · **Commits**: 1499
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-25 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-27 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-28 | 5 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-12-03 | 14 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 1 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-26 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-28 | 3 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-29 | 5 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-12-04 | 14 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -86,7 +86,7 @@ Reported by **20** distros on [repology.org](https://repology.org/project/revive
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `1.17.0` | ⚠️ outdated |
-| Homebrew | `1.17.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `1.17.1` | ✅ latest |
 | Void | `1.13.0` | ⚠️ outdated |
 
@@ -99,4 +99,4 @@ Install metadata for revive lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:18:08Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:45:14Z._
