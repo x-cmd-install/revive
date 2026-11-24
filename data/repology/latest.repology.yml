@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: revive
+  visiblename: revive
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
 - repo: arch
   subrepo: extra
   srcname: revive
@@ -56,13 +63,6 @@
   origversion: null
   status: newest
   summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
-- repo: homebrew
-  srcname: revive
-  visiblename: revive
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Fast, configurable, extensible, flexible, and beautiful linter for Go
 - repo: macports
   srcname: devel/revive
   binname: revive
@@ -82,8 +82,8 @@
   srcname: revive
   binname: revive
   visiblename: revive
-  version: 1.16.0
-  origversion: 1.16.0-1
+  version: 1.17.0
+  origversion: 1.17.0-1
   status: outdated
   summary: faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
   licenses:
